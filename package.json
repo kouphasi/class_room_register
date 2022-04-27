@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "puppeteer": "^13.5.2"
-  }
+  },
+  "name": "class_room_register",
+  "description": "教室の一括申請プログラム",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouphasi/class_room_register.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouphasi/class_room_register/issues"
+  },
+  "homepage": "https://github.com/kouphasi/class_room_register#readme"
 }
